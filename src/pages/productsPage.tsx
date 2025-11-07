@@ -10,7 +10,7 @@ import {
   useDeleteProductMutation,
   type ProductDto,
 } from '../services/products/productApi';
-// import { ProductForm } from '../components/ProductForm';
+import { ProductForm } from '../components/ProductForm';
 import { ProductsGrid } from '../components/ProductsGrid';
 
 export const ProductsPage: FC = () => {
