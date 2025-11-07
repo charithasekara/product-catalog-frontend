@@ -16,7 +16,6 @@ A modern product management interface built with React, TypeScript, and RTK Quer
 - Redux Toolkit Query
 - Tailwind CSS
 - Framer Motion
-- Headless UI
 
 ## 📦 Installation
 
