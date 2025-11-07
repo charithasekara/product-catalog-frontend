@@ -2,8 +2,6 @@
 
 A modern product management interface built with React, TypeScript, and RTK Query. Features a responsive design with smooth animations and real-time updates.
 
-![Product Catalog Screenshot](screenshot.png)
-
 ## 🚀 Features
 
 - Create, read, update, and delete products
